@@ -51,4 +51,4 @@ ngrok http 5000
 
 ## 3. Update Endpoint in the Happy Robot Use Case
 
-Copy the generated public ngrok URL and replace the API endpoint used in the Happy Robot use case configuration.
+Copy the generated public ngrok URL and replace the API endpoint used in the Happy Robot use case configuration(Under Tool 2, Webhook > Configure)

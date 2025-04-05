@@ -3,8 +3,8 @@
 ## 1. Clone and Set Up the Custom API (Python 3)
 
 ```bash
-git clone <your-api-repo-url>
-cd <your-api-repo>
+git clone https://github.com/gkarthi280/Happy_Robot_Custom_Backend.git
+cd Happy_Robot_Custom_Backend
 ```
 
 Create and activate a virtual environment:
